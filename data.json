@@ -1,5 +1,61 @@
 [
       {
+      "id": "0000123",
+      "title": "The Eminence In Shadow",
+      "cover": "https://m.media-amazon.com/images/I/71eo6HTQO9L._SL1500_.jpg",
+      "type": "Light Novel",
+      "status": "Ongoing",
+      "genre": "Action, Adventure, Comedy, Fantasy, Harem, Martial Arts, School Life",
+      "alternative": "Kage no Jitsuryokusha ni Naritakute!",
+      "authors": "Aizawa Daisuke",
+      "artist": "Touzai",
+      "publisher": "Yen Press",
+      "translationGroup": "Gadgedtizedpanda & Localizer Meerkat",
+      "recommended": "yes",
+      "newUpdate": "yes",
+      "addToFav": "yes",
+      "synopsis": "Just like how everyone adored heroes in their childhood, a certain young man adored those powers hidden in shadows. After hiding his strength and living the mediocre life of a mob character by day while undergoing frenzied training by night, he finally reincarnates into a different world and gains ultimate power. The young man who is only playing at being a power in the shadows, his misunderstanding subordinates, and a giant organization in the shadows that gets trampled…. This is the story of a young boy who had adored powers in shadows possibly eventually reigning over the world of shadows in another world.",
+      "notes":"",
+      "volumesCount": "7",
+      "volumes": [
+         {
+            "title": "Volume 1",
+            "link1": "http://lyksoomu.com/GS5b",
+            "link2": "http://lyksoomu.com/GS64"
+      },
+             {
+            "title": "Volume 2",
+            "link1": "http://lyksoomu.com/GS6I",
+            "link2": "http://lyksoomu.com/GS6Z"
+      },
+             {
+            "title": "Volume 3",
+            "link1": "http://lyksoomu.com/GS6l",
+            "link2": "http://lyksoomu.com/GS76"
+      },
+             {
+            "title": "Volume 4",
+            "link1": "http://lyksoomu.com/GS7K",
+            "link2": "http://lyksoomu.com/GS7a"
+      },
+             {
+            "title": "Volume 5",
+            "link1": "https://direct-link.net/735289/volume-5-epub29",
+            "link2": "https://link-hub.net/735289/volume-5-pdf32"
+      },
+             {
+            "title": "Volume 6",
+            "link1": "https://link-hub.net/735289/volume-6-epub11",
+            "link2": "https://link-center.net/735289/volume-6-pdf11"
+      },
+            {
+            "title": "Volume 7",
+            "link1": "https://direct-link.net/735289/uf4UsfXzbBQv",
+            "link2": "https://link-center.net/735289/62zIQjefN8sH"
+      }
+    ]
+  },
+      {
       "id": "0000272",
       "title": "After My Sister Enrolling in Girl Knights’ School, I Became a Hero",
       "cover": "https://m.media-amazon.com/images/I/91uOYt9uyPL._SL1500_.jpg",
@@ -5947,57 +6003,6 @@
             "title": "Volume 2",
             "link1": "https://direct-link.net/735289/volume-2-epub89",
             "link2": "https://link-target.net/735289/volume-2-pdf91"
-      }
-    ]
-  },
-       {
-      "id": "0000123",
-      "title": "The Eminence In Shadow",
-      "cover": "https://cdn.novelupdates.com/images/2023/02/To-Be-a-Power-in-the-Shadows-LN.jpg",
-      "type": "Light Novel",
-      "status": "Ongoing",
-      "genre": "Action, Adventure, Comedy, Fantasy, Harem, Martial Arts, School Life",
-      "alternative": "Kage no Jitsuryokusha ni Naritakute!",
-      "authors": "Aizawa Daisuke",
-      "artist": "Touzai",
-      "publisher": "Yen Press",
-      "translationGroup": "Gadgedtizedpanda",
-      "recommended": "yes",
-      "newUpdate": "yes",
-      "addToFav": "no",
-      "synopsis": "Just like how everyone adored heroes in their childhood, a certain young man adored those powers hidden in shadows. After hiding his strength and living the mediocre life of a mob character by day while undergoing frenzied training by night, he finally reincarnates into a different world and gains ultimate power. The young man who is only playing at being a power in the shadows, his misunderstanding subordinates, and a giant organization in the shadows that gets trampled…. This is the story of a young boy who had adored powers in shadows possibly eventually reigning over the world of shadows in another world.",
-      "notes":"",
-      "volumesCount": "6",
-      "volumes": [
-         {
-            "title": "Volume 1",
-            "link1": "http://lyksoomu.com/GS5b",
-            "link2": "http://lyksoomu.com/GS64"
-      },
-             {
-            "title": "Volume 2",
-            "link1": "http://lyksoomu.com/GS6I",
-            "link2": "http://lyksoomu.com/GS6Z"
-      },
-             {
-            "title": "Volume 3",
-            "link1": "http://lyksoomu.com/GS6l",
-            "link2": "http://lyksoomu.com/GS76"
-      },
-             {
-            "title": "Volume 4",
-            "link1": "http://lyksoomu.com/GS7K",
-            "link2": "http://lyksoomu.com/GS7a"
-      },
-             {
-            "title": "Volume 5",
-            "link1": "https://direct-link.net/735289/volume-5-epub29",
-            "link2": "https://link-hub.net/735289/volume-5-pdf32"
-      },
-             {
-            "title": "Volume 6",
-            "link1": "https://link-hub.net/735289/volume-6-epub11",
-            "link2": "https://link-center.net/735289/volume-6-pdf11"
       }
     ]
   },
