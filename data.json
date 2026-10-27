@@ -1,5 +1,31 @@
 [
       {
+      "id": "0000393",
+      "title": "Mitsuba’s Stories",
+      "cover": "https://m.media-amazon.com/images/I/81pSnstQ6dL._SL1500_.jpg",
+      "type": "Light Novel",
+      "status": "Ongoing",
+      "genre": "Action, Drama, Fantasy",
+      "alternative": "みつばものがたり 呪いの少女と死の輪舞(ロンド)",
+      "authors": "Nanasawa Matari",
+      "artist": "EURA",
+      "publisher": "N/A",
+      "translationGroup": "AIKiraGroup",
+      "recommended": "yes",
+      "newUpdate": "yes",
+      "addToFav": "no",
+      "synopsis": "“Dance with Madness.”<br/><br/>‘This world revolves around me—’<br/><br/>Awakening from a prolonged slumber with a mysterious sense of omnipotence, Mitsuba finds herself unwelcome in her stepmother’s eyes. Through the stepmother’s scheming, Mitsuba not only loses her noble title but is also compelled to enroll in a military academy.<br/><br/>Yet, Mitsuba clings to hazy memories of another world and unwittingly wields the power of a curse. This is the tale of a girl who, feared by those around her, forges her own path with extraordinary abilities—a unique narrative of conquest in a different world.",
+      "notes":"",
+      "volumesCount": "3",
+      "volumes": [
+         {
+            "title": "Volume 1",
+            "link1": "https://link-center.net/735289/Bi0HCXUTDRUH",
+            "link2": "https://link-hub.net/735289/c6iC86JYHzUp"
+      }
+    ]
+  },
+      {
       "id": "0000392",
       "title": "Exhausted with Life, I Arrived at a Village Where Beautiful Women Won’t Let Me Go",
       "cover": "https://m.media-amazon.com/images/I/71OG46VvZuL._SL1500_.jpg",
